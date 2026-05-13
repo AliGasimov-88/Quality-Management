@@ -1,3 +1,5 @@
+Study and application of Quality Management Systems (QMS) in manufacturing and service industries, including quality standards, continuous improvement, problem-solving tools, customer focus, and Total Quality Management (TQM) principles.
+
 Ali Gasimov
 
 Task #1
