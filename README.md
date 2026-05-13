@@ -2,13 +2,11 @@ Ali Gasimov
 
 Task #1
 
-https://www.slideshare.net/slideshow/for-publishing-in-slideshare-topic-description-ali-gasimov-elshad-samadov-ayshen-zulfugarova-farid-hajiyev-zaur-akbarov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/286792591
-
 Summary: The fishbone diagram for crane operations maps out the root causes of operational challenges. The diagram highlights how technical, human, and environmental factors combine to create inefficiencies or safety risks, guiding attention toward improvements in training, equipment upkeep, and process control.
 
-
 https://www.slideshare.net/slideshow/for-publishing-in-slideshare-topic-description-ali-gasimov-elshad-samadov-ayshen-zulfugarova-farid-hajiyev-zaur-akbarov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/286792591
 
+https://www.instagram.com/physics_teacher_azerbaijan / https://sites.google.com/view/physicsteachermrt
 
 https://www.linkedin.com/in/gasimov-ali-1988oct/
 
@@ -21,6 +19,8 @@ Summary: The SIPOC diagram for crane operations quality control. It emphasizes t
 
 https://www.slideshare.net/slideshow/for-publishing-in-slideshare-topic-description-sipoc-map-quality-control-farid-hajiyev-ali-gasimov-rovshan-guliyev-elshad-samadov-zaur-akbarov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/286905177
 
+https://www.instagram.com/physics_teacher_azerbaijan / https://sites.google.com/view/physicsteachermrt
+
 https://www.linkedin.com/in/gasimov-ali-1988oct/
 
 
@@ -31,6 +31,8 @@ Task #3
 Summary: This April 2026 SlideShare document is a feedback loop analysis for a heavy crane rental company. The document explains how feedback loops drive quality management in crane rental operations, showing both stabilizing and reinforcing cycles. It highlights risks from weak scheduling and proposes solutions like KPI dashboards and PDCA reviews to transform operations from reactive to predictive quality management.
 
 https://www.slideshare.net/slideshow/farid-hajiyev-ali-gasimov-rovshan-guliyev-elshad-samadov-zaur-akbarov-april-2026-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287148250
+
+https://www.instagram.com/physics_teacher_azerbaijan / https://sites.google.com/view/physicsteachermrt
 
 https://www.linkedin.com/in/gasimov-ali-1988oct/
 
@@ -43,6 +45,8 @@ Summary: The “Crane Rental Company Optimization” SlideShare focuses on impro
 
 https://www.slideshare.net/slideshow/crane-rental-company-optimization-farid-hajiyev-zaur-akbarov-ali-gasimov-rovshan-guliyev-elshad-samadov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/287271548
 
+https://www.instagram.com/physics_teacher_azerbaijan / https://sites.google.com/view/physicsteachermrt
+
 https://www.linkedin.com/in/gasimov-ali-1988oct/
 
 
@@ -53,5 +57,7 @@ Task #5
 Summary: This presentation explains how crane rental and quality‑management operations can be optimized by consolidating data from Excel, Google Drive, CSV, ERP, CRM, and 1C systems. It emphasizes integration and visualization to improve reporting accuracy and operational efficiency. Overall, it provides a clear framework for managing multi‑source data in a unified way.
 
 https://www.slideshare.net/slideshow/data-slides-by-supporting-excel-google-drive-csv-erp-crm-and-1c-form-farid-hajiyev-zaur-akbarov-ali-gasimov-rovshan-guliyev-elshad-samadov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/287381940
+
+https://www.instagram.com/physics_teacher_azerbaijan / https://sites.google.com/view/physicsteachermrt
 
 https://www.linkedin.com/in/gasimov-ali-1988oct/
