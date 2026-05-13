@@ -2,9 +2,13 @@ Ali Gasimov
 
 Task #1
 
+https://www.slideshare.net/slideshow/for-publishing-in-slideshare-topic-description-ali-gasimov-elshad-samadov-ayshen-zulfugarova-farid-hajiyev-zaur-akbarov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/286792591
+
 Summary: The fishbone diagram for crane operations maps out the root causes of operational challenges. The diagram highlights how technical, human, and environmental factors combine to create inefficiencies or safety risks, guiding attention toward improvements in training, equipment upkeep, and process control.
 
+
 https://www.slideshare.net/slideshow/for-publishing-in-slideshare-topic-description-ali-gasimov-elshad-samadov-ayshen-zulfugarova-farid-hajiyev-zaur-akbarov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/286792591
+
 
 https://www.linkedin.com/in/gasimov-ali-1988oct/
 
